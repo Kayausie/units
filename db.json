@@ -1,5 +1,5 @@
-["units":{"code":"ICT10001", "desc":"Problem Solving with ICT", "cp":12.5, "type":"Core"},
+{"units":[{"code":"ICT10001", "desc":"Problem Solving with ICT", "cp":12.5, "type":"Core"},
 {"code":"COS10005", "desc":"Web Development", "cp":12.5, "type":"Core"},
 {"code":"INF10003", "desc":"Introduction to Business Information Systems", "cp":12.5, "type":"Core"},
 {"code":"INF10002", "desc":"Database Analysis and Design", "cp":12.5, "type":"Core"}
-]
+]}
